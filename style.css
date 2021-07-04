@@ -1,0 +1,17 @@
+*{
+    border:solid
+}
+.header{
+    background-color: goldenrod;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+img{
+
+   
+}
